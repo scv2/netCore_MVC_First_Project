@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4FEEC2D2-BD81-4AD9-8FE9-54512149A204}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="netCore_MVC_Third.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="netCore_MVC_Third.Tests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.netCore__MVC__Third PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.netCore__MVC__Third.Tests FirstBuild="True" />
+</Properties>

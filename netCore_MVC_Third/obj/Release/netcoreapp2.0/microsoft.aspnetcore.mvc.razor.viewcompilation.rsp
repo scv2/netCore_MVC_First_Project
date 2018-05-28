@@ -1,0 +1,12 @@
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third
+--output-path=obj/release/netcoreapp2.0/
+--application-name=netCore_MVC_Third
+--content-root=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Home/About.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Home/Contact.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Home/Index.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Shared/Error.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Shared/_Layout.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/_ViewImports.cshtml
+--file=/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/Views/_ViewStart.cshtml

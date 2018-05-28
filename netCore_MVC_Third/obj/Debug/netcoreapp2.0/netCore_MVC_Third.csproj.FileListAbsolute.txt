@@ -1,0 +1,11 @@
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/bin/Debug/netcoreapp2.0/netCore_MVC_Third.deps.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/bin/Debug/netcoreapp2.0/netCore_MVC_Third.runtimeconfig.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/bin/Debug/netcoreapp2.0/netCore_MVC_Third.runtimeconfig.dev.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/bin/Debug/netcoreapp2.0/netCore_MVC_Third.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/bin/Debug/netcoreapp2.0/netCore_MVC_Third.pdb
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.csproj.CoreCompileInputs.cache
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.AssemblyInfoInputs.cache
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.AssemblyInfo.cs
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.pdb
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third/obj/Debug/netcoreapp2.0/netCore_MVC_Third.csprojAssemblyReference.cache

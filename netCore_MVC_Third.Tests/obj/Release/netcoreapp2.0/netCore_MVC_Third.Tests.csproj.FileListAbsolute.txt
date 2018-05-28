@@ -1,0 +1,14 @@
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/netCore_MVC_Third.Tests.deps.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/netCore_MVC_Third.Tests.runtimeconfig.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/netCore_MVC_Third.Tests.runtimeconfig.dev.json
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/netCore_MVC_Third.Tests.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/bin/Release/netcoreapp2.0/netCore_MVC_Third.Tests.pdb
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.csprojAssemblyReference.cache
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.csproj.CoreCompileInputs.cache
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.AssemblyInfoInputs.cache
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.AssemblyInfo.cs
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.dll
+/Users/Chintasn.Vyas/Documents/Projects/net/netCore_MVC_Third/netCore_MVC_Third.Tests/obj/Release/netcoreapp2.0/netCore_MVC_Third.Tests.pdb
